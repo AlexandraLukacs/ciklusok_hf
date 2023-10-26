@@ -1,3 +1,3 @@
 import ciklusok
 
-ciklusok.feladat4(10)
+ciklusok.feladat3(10)
